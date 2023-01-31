@@ -1,0 +1,30 @@
+
+.d-flex {
+    display: flex;
+    margin: 10px 10px;
+    background-color: beige;
+    padding: 10px;
+}
+
+.list {
+    margin: 10px 10px;
+}
+
+ol {
+    display: flex;
+    margin: auto 10px;
+    background-color: beige;
+    padding: 10px;
+    list-style: none;
+}
+
+btn-danger {
+    margin-left: 500px;
+}
+
+
+li {
+    padding-right: 400px;
+    background-color: #ffff;
+
+}
